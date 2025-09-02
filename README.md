@@ -97,3 +97,6 @@ def soma(a, b):
 
 print(soma(2, 3))
 ```
+
+# Aprensentação
+https://gamma.app/docs/Padronizacao-de-Codigo-Python-Linter-e-Formatador-em-Acao-fizyv5cxwrob381?mode=doc
